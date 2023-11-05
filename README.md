@@ -1,8 +1,9 @@
 # Animal-feeding-Phase-I
-## Aim:
+
+# Aim:
 To develop a animal feeding game-Phase-1 using unity.
 
-## Algorithm:
+# Algorithm:
 ## Player Controller:
 ### Step 1:
 Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
@@ -41,11 +42,11 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 ### Step 6:
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
-## Program:
+# Program:
 NAME : haritha shree.v
 REG NO: 212222230160
 
-## PROGRAM CONTROLLER:
+# PROGRAM CONTROLLER:
 
 ```python
 using System.Collections;
@@ -86,7 +87,7 @@ public class planecontroller : MonoBehaviour
 }
 ```
 
-## MOVE FORWARD:
+# MOVE FORWARD:
 
 ```python
 using System.Collections;
@@ -111,12 +112,12 @@ public class moveforward : MonoBehaviour
 ```
 
 
-## Output:
+# Output:
 
 ![image](https://github.com/haritha-venkat/Animal-feeding-Phase-I/assets/121285701/789522ab-8004-425c-b7b1-3d9de21d41a3)
 
 
-Result:
+# Result:
 Animal feeding game-Phase-1 using unity is developed successfully.
 
 
