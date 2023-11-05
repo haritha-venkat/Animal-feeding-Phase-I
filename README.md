@@ -44,7 +44,8 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 
 # Program:
 NAME : haritha shree.v
-REG NO: 212222230160
+
+REG NO: 212222230046
 
 # PROGRAM CONTROLLER:
 
